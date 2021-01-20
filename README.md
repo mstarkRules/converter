@@ -1,4 +1,4 @@
-Projeto criado em aula do Programdor Br para converter moedas.
+Projeto criado em aula do Programador Br para converter moedas.
 
 
 
